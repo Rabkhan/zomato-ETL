@@ -1,4 +1,4 @@
-#Zomato EDA (Exploratory Data Analysis) Project
+# Zomato EDA (Exploratory Data Analysis) Project
 
 This project involves performing Exploratory Data Analysis (EDA) on Zomato's restaurant dataset using PySpark. The goal is to uncover insights about restaurant trends, customer preferences, and food delivery patterns in India and globally.
 
