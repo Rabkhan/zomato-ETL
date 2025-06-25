@@ -42,4 +42,4 @@ zomato-eda/
 │
 ├── zomato-eda.ipynb       # Main Jupyter Notebook with PySpark code
 ├── README.md              # Project documentation
-└── data/                  # Directory for the dataset (if applicable)
+└── data/                  # Directory for the dataset (if applicable).
